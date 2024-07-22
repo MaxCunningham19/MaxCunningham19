@@ -2,7 +2,7 @@
 
 **`Engineer / Student / Builder`**
 
-I am a 4th Year Computer Scientist from TCD. I use this github repo to store any college/personal/interview prep projects 
+I am a Masters of Computer Science from TCD with a bachelors in CS from TCD. I use this github repo to store any college/personal/interview prep projects 
 so I can review them in the future and learn more about version control and CI/CD.
 
 ---
